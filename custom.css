@@ -1,0 +1,57 @@
+/* custom.css */
+.left-code {
+  color: #777;
+  width: 38%;
+  height: 92%;
+  float: left;
+}
+.right-plot {
+  width: 60%;
+  float: right;
+  padding-left: 1%;
+}
+
+.pull-left {
+  float: left;
+  width: 47%;
+}
+.pull-right {
+  float: right;
+  width: 47%;
+}
+.pull-right ~ * {
+  clear: both;
+}
+
+.left-column30 {
+  color: #777;
+  width: 30%;
+  height: 92%;
+  float: left;
+}
+.right-column70 {
+  width: 67%;
+  float: right;
+}
+
+.right-column30 {
+  color: #777;
+  width: 30%;
+  height: 92%;
+  float: right;
+}
+.left-column70 {
+  width: 67%;
+  float: left;
+}
+
+.small {
+  font-size: 80%;
+}
+.tiny {
+  font-size: 60%;
+}
+
+li{
+  padding-top: 1em;
+}
