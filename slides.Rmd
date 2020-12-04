@@ -388,3 +388,4 @@ class: middle,center,inverse
 
 # Thank you
 
+.center[Slides are at https://webbedfeet.github.io/DC2020_opendata/slides.html]
