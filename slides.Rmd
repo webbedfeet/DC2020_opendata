@@ -8,10 +8,13 @@ output:
   xaringan::moon_reader:
     lib_dir: libs
     css: ['xaringan-themer.css','custom.css', 'sfah.css']
+    yolo: false
+    seal: true
     nature:
       highlightStyle: github
       ratio: "16:9"
       highlightLines: true
+      highlightSpans: false
       countIncrementalSlides: false
       slideNumberFormat: "%current%"
 ---
@@ -41,6 +44,7 @@ use_tachyons()
 + Early Data Community DC member and organizer
     + Co-founded Stat Programming DC with Marck Vaisman
 + Long term R user (since 1998), as first (data) language
++ Occassional blogger
 --
 
 + Data science at a startup (Zansors)
@@ -48,7 +52,7 @@ use_tachyons()
 + Biostatistics/Machine Learning (AstraZeneca now, NIH for a decade)
 + Adjunct Faculty, Georgetown University and George Mason University
 + Promotes and teaches R & Python for data science and data visualization
-    - Georgetown U, AZ, FAES @ NIH, District Data Labs
+    - Georgetown U, AstraZeneca, FAES @ NIH, District Data Labs
 
 ---
 
@@ -56,6 +60,7 @@ use_tachyons()
 
 + Interest in global health, sustainable development goals (SDGs) and why some countries do better than others (using World Bank, WHO data)
 + Using _Real World Evidence_ (RWE) to help understand disease and potential therapeutic targets
++ Hospital utilization across the US among Medicare recipients, for particular surgeries, and associations with American Community Survey data
 --
 
 .fl.w-50[
